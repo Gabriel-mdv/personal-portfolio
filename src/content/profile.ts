@@ -52,7 +52,7 @@ export const profileData: Profile = {
     name: "Jean Gabriel Mpuhwezimana",
     title: "Machine Learning and Electronics Engineer",
     bio: "Machine Learning and Electronics Engineer experienced in software development, data-driven modeling, and sensor-based ML systems. Passionate about multidisciplinary solutions combining electronics and software to solve real-world problems. Skilled in software development, embedded systems, signal processing, machine learning, and computer vision.",
-    avatar: "/avatar.png",
+    avatar: "/personal-portfolio/avatar.png",
   },
   contact: {
     email: "placeholder@example.com",
@@ -60,8 +60,8 @@ export const profileData: Profile = {
     github: "https://github.com/Gabriel-mdv",
   },
   cv: {
-    filename: "Jean_Gabriel_Mpuhwezimana_CV.pdf",
-    path: "/files/Jean_Gabriel_Mpuhwezimana_CV.pdf",
+    filename: "jean_gabriel_mpuhwezimana_cv.pdf",
+    path: "/personal-portfolio/files/jean_gabriel_mpuhwezimana_cv.pdf",
   },
   skills: [
     {
@@ -144,7 +144,7 @@ export const profileData: Profile = {
         "Evaluated rule-based (Drain3) and LLM-assisted (LibreLog) log normalization on HDFS, Nginx, and Apache datasets, achieving >20% improvement in template coverage.",
         "ML-assisted approach improved anomaly detection precision from 0.7318 to 0.9953 with only 1.98% processing overhead, significantly reducing SIEM false positives.",
       ],
-      pdfPath: "/files/Log_Normalization_MTTD_MTTR.pdf",
+      pdfPath: "/personal-portfolio/files/log_normalization_mttd_mttr.pdf",
     },
     {
       title: "BiliTrack – ML-Enabled Neonatal Jaundice Detection",
